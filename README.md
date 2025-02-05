@@ -18,8 +18,6 @@ Table of Contents
 
 7. Deployment
 
-8. Contributing
-
 
 ### Overview
 
@@ -165,7 +163,7 @@ Response:
     "digit_sum": 10,
     "fun_fact": "28 is the number of days in February in a common year."
 }
-``
+```
 Invalid Input
 
 Request:
@@ -183,4 +181,4 @@ Response:
 ```
 ### Deployment
 
-Deploy the API on PythonAnywhere.
+Deploy the API on [pythonanywhere.com](kihuni.pythonanywhere.com)
