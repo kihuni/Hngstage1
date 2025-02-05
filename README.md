@@ -181,4 +181,4 @@ Response:
 ```
 ### Deployment
 
-Deploy the API on [pythonanywhere.com](kihuni.pythonanywhere.com)
+Deploy the API on [pythonanywhere.com](https://kihuni.pythonanywhere.com/api/classify-number/?number=371)
