@@ -179,6 +179,6 @@ Response:
     "error": true
 }
 ```
-### Deployment
 
-Deploy the API on [pythonanywhere.com](https://kihuni.pythonanywhere.com/api/classify-number/?number=371)
+
+Live link [pythonanywhere.com](https://kihuni.pythonanywhere.com/api/classify-number/?number=371)
